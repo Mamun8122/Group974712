@@ -6,6 +6,9 @@ public class Code_test {
 		// TODO Auto-generated method stub
 		int x=10;
 		String y="dfdff";
+		String z="bayzid";
+		String a="usof";
+		String b="roni";
 	}
 
 }
